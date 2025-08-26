@@ -1,33 +1,25 @@
-# 💵 USD to INR Currency Converter
+ USD to INR Currency Converter
 
 A simple Flutter app that converts **USD to INR** using real-time exchange rates. Built with a clean UI using both **Material** and **Cupertino** design.
 
----
+ Features
 
-## 🧩 Features
+-  Converts US Dollars (USD) to Indian Rupees (INR)
+-  Real-time exchange rate
+-  Built using Flutter for cross-platform support
+-  Includes both Material & Cupertino UI versions
 
-- 🇺🇸 Converts US Dollars (USD) to Indian Rupees (INR)
-- 🔄 Real-time exchange rate
-- 💡 Built using Flutter for cross-platform support
-- 🎨 Includes both Material & Cupertino UI versions
 
----
 
-## 📸 Screenshots
+ Getting Started
 
-*(Add screenshots here)*
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
+Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - Dart SDK (included with Flutter)
 - Any Flutter-supported IDE (VS Code, Android Studio, etc.)
 
-### Installation
+Installation
 
 ```bash
 # Clone the repository
